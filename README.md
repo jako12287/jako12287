@@ -16,9 +16,11 @@
  </h1>
 </div>
 <div>
- <h2>
+  
+  <h2>
  Full Stack Developer
  </h2>
+ 
 <br><br>
 </div>
 <h4>Soy un amante de la programación, interesado en tener un continuo aprendizaje sin temor de salir de mi zona de confort. En mis experiencias laborales anteriores, fuera del mundo de la tecnología, he adquirido y perfeccionado mis habilidades para trabajar en equipo teniendo claro que una comunicación asertiva es el mejor camino para la resolución de problemas.
@@ -27,7 +29,44 @@
 
 <p align="center" width='100%'>
 <h3 align="left">Tecnologias</h3>
-<h4 align="center"> HTML || CSS || JavaScript || React.js || Redux || Node.js || Express || Sequilize || Postgres <h4>
+<h4 align="left"> HTML || CSS || JavaScript || React.js || Redux || Node.js || Express || Sequilize || Postgre <h4>
+   <div aling='right' width='100%' height='50px'>
+    <a href='#'>
+    <img src='https://www.manejandodatos.es/wp-content/uploads/2013/07/html5_logo.png' alt="HTML" height="40px" width="40px">
+    </a>
+    <a href='#'>
+    <img src='https://blastcoding.com/wp-content/uploads/2018/10/CSS3.png' alt="CSS" height="40px" width="40px">
+    </a>
+     </a>
+    <a href='#'>
+    <img src='https://images.vexels.com/media/users/3/166403/isolated/lists/a5a33bf3004830a2bd581e9fa65de660-icono-del-lenguaje-de-programacion-javascript.png' alt="JavaScript" height="40px" width="40px">
+    </a>
+     <a href='#'>
+    <img src='https://video-react.js.org/assets/logo.png' alt="React" height="40px" width="40px">
+    </a>
+     </a> 
+     <a href='#'>
+    <img src='https://miro.medium.com/max/256/1*7Mh2Gq542qUfMlx6iTgE2Q.png' alt="Redux" height="40px" width="40px">
+    </a>
+     </a> 
+      <a href='#'>
+    <img src='https://davidrengifo.files.wordpress.com/2017/08/nodejs_logo.png' alt="Node" height="40px" width="40px">
+    </a>
+     </a> 
+      <a href='#'>
+    <img src='https://1x.com/assets/img/ex-icon-03.png' alt="Express" height="40px" width="40px">
+    </a>
+     </a> 
+      <a href='#'>
+    <img src='https://images.opencollective.com/sequelize/5974b6b/logo/256.png' alt="Sequilize" height="40px" width="40px">
+    </a>
+     </a> 
+      <a href='#'>
+    <img src='https://es-wiki.ikoula.com/images/a/a3/Postgre.png' alt="Postgre" height="40px" width="40px">
+    </a>
+     </a> 
+    
+  </div>
 </p>
   <br>
   <br>
@@ -91,7 +130,7 @@
  <li>Node.js</li>
  <li>Express</li>
  <li>Sequilize</li>
- <li>Postgres</li>
+ <li>Postgre</li>
  <li>React</li>
  <li>Redux</li>
  <li>CSS Puro</li>
