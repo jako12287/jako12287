@@ -34,8 +34,44 @@
 <a href='#' target='_blank'>
   <img width='20%' src='https://user-images.githubusercontent.com/76558685/153722436-d23a5e13-1bdf-4037-b412-9017ce6eb01c.png' alt='menu' />
 </a>
-  
+ 
 </section>  
+
+ 
+ <div aling='left'>
+  <h4>BACKEND</h4>
+   <p> Traje la informacion desde una API REST (REST Countries) para luego almacenarla en la base de datos, creando 4 rutas principales 
+    <ol>
+     <li><strong> /countries </strong> Muestra un listado con todos los pises del mundo</li>
+     <li><strong> /countries:id </strong> Muestra los datos de un pais que coincide con el id que se proporciona</li>
+     <li><strong> /countries?name={name} </strong> Muestra los paises o el pais que coinciden con los caracteres suministrados en el nombre</li>
+     <li><strong> /activities </strong> Mustra un listado de actividades</li>
+    </ol>
+  <p> Adicional realice un CRUD (Post, Get) para poder crear y consultar las actividades que a su vez estan relacionadas con uno o varios paises</p>
+ </p>
+ <h4>FRONTEND</h4>
+ <p> 
+  Realice la conexion con el Backend y cree 4 vistas del app
+ <ol>
+  <li>Landing Page Muestra la imagen principal con un boton que lleva al home</li>
+  <li>Home Muestra el listado de paises con un maximo de 10 por pagina, un SearchBar para buscar paises por su nombre, botones para navegar por las distintas paginas, boton de creacion de actividades, y un boton tipo hamburguesa para desplegar un menu lateral.</li>
+  <li>Detail Muestra la informacion de cada pais al hacer click en una bandera del home y tambien las actividades relacionadas</li>
+  <li>Create Activity Muestra un formulario controlado para crear actividades</li>
+ </ol>
+ <p>En el menu se encuentra los diferentes filtros y ordenamientos que se pueden hacer:
+ <ul>
+  <li>Filtrado por continente</li>
+  <li>Filtrado por actividad</li>
+  <li>Ordenamiento alfabetico a-z y z-a</li>
+  <li>Ordenamiento por mayor y menor cantidad de poblacion</li>
+ </ul>
+ </p>
+ 
+ </p>
+ </div>
+ 
+
+  
 
   
   
@@ -58,7 +94,7 @@
 <br>
 <br>
   <div align="center">
-    <h3 align="center">Me puedes contactar:</h3> <br>
+    <h3 align="center">CONTACTO:</h3> <br>
   <div align="center">
    <a href="https://www.linkedin.com/in/johancortesdev/" target="blank" style='margin-right:4px'>
     <img align="center" src="https://logoeps.com/wp-content/uploads/2014/09/34405-linkedin-logo-icon-vector-icon-vector-eps.png" alt="JohanCortes" height="50px" width="50px" />
