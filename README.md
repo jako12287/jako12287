@@ -2,19 +2,24 @@
 #### Full Stack Developer
 
 ##### Soy un amante de la programación, interesado en tener un continuo aprendizaje sin temor de salir de mi zona de confort. En mis experiencias laborales anteriores, fuera del mundo de la tecnología, he adquirido y perfeccionado mis habilidades para trabajar en equipo teniendo claro que una comunicación asertiva es el mejor camino para la resolución de problemas.
+ <br>
+  <br>
+<p align="center" width='100%'>
+<h3 align="left">Tecnologias</h3>
+<h4 align="center"> HTML || CSS || JavaScript || React.js || Redux || Node.js || Express || Sequilize || Postgres <h4>
+</p>
 
 
-<h3 align="left">Tecnologias con las que trabajo</h3>
+  <br>
+  <br>
+<p align="center">
+   PROYECTOS REALIZADOS
+</p>
+  <hr align="center">
 
-
-<h4> HTML || CSS || JavaScript || React.js || Redux || Node.js || Express || Sequilize || Postgres <h4>
+<h3>App Countries</h3>
   
-
- <h4>Proyectos</h4>
-
-  <p align="center">
-    App Countries
-  </p>
+  
 <section align="center">  
   <a href='#' target='_blank'>
   <img width='20%' src='https://user-images.githubusercontent.com/76558685/153722435-1e1c1d96-6bbb-45d4-8c56-5f3e045caec3.png' alt='LandinPage' />
@@ -34,24 +39,36 @@
 
   
   
+  <hr>
+  <h3>App Weather</h3>
   
+<section align="center">  
+ 
+  <img width='25%' src='https://user-images.githubusercontent.com/76558685/153723158-5b76df0a-dcc4-491c-b156-8c237dfa891f.png' alt='HomePage' />
+</a>
+<a href='#' target='_blank'>
+  <img width='25%' src='https://user-images.githubusercontent.com/76558685/153723154-acb6a76b-9da1-47fe-b8e9-bda66f89734f.png' alt='DetailPage' />
+</a>
+
+<a href='#' target='_blank'>
+  <img width='25%' src='https://user-images.githubusercontent.com/76558685/153723157-2d3aa3f2-e7c1-4f9b-84dc-b8c810c0615c.png' alt='menu' />
+</a>
   
-  
-  
-  
-  
-  
-  <p align="center">
-    Me puedes contactar: <br>
+</section>  
+<br>
+<br>
+  <div align="center">
+    <h3 align="center">Me puedes contactar:</h3> <br>
+  <div align="center">
    <a href="https://www.linkedin.com/in/johancortesdev/" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://logoeps.com/wp-content/uploads/2014/09/34405-linkedin-logo-icon-vector-icon-vector-eps.png" alt="JohanCortes" height="28px" width="28px" />
+    <img align="center" src="https://logoeps.com/wp-content/uploads/2014/09/34405-linkedin-logo-icon-vector-icon-vector-eps.png" alt="JohanCortes" height="50px" width="50px" />
   </a>
     
    <a href="https://wa.me/+573043152412" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://image.flaticon.com/icons/png/128/1051/1051323.png" alt="midudev" height="28px" width="28px" />
+    <img align="center" src="https://image.flaticon.com/icons/png/128/1051/1051323.png" alt="midudev" height="50px" width="50px" />
   </a>
- 
-</p>
+  </div>  
+</div>
 
 
 
