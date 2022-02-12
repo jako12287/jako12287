@@ -1,15 +1,35 @@
-### Hola, Soy Johan Cortes 👋
-#### Full Stack Developer
+<div align="right">
+  <div align="right">
+   <a href="https://www.linkedin.com/in/johancortesdev/" target="blank" style='margin-right:4px'>
+    <img align="center" src="https://logoeps.com/wp-content/uploads/2014/09/34405-linkedin-logo-icon-vector-icon-vector-eps.png" alt="JohanCortes" height="28px" width="28px" />
+  </a>
+    
+   <a href="https://wa.me/+573043152412" target="blank" style='margin-right:4px'>
+    <img align="center" src="https://image.flaticon.com/icons/png/128/1051/1051323.png" alt="midudev" height="28px" width="28px" />
+  </a>
+  </div>  
+</div>
 
-##### Soy un amante de la programación, interesado en tener un continuo aprendizaje sin temor de salir de mi zona de confort. En mis experiencias laborales anteriores, fuera del mundo de la tecnología, he adquirido y perfeccionado mis habilidades para trabajar en equipo teniendo claro que una comunicación asertiva es el mejor camino para la resolución de problemas.
- <br>
-  <br>
+<div align='center'>
+ <h1>
+ Hola, Soy Johan Cortes 👋
+ </h1>
+</div>
+<div>
+ <h2>
+ Full Stack Developer
+ </h2>
+<br><br>
+</div>
+<h4>Soy un amante de la programación, interesado en tener un continuo aprendizaje sin temor de salir de mi zona de confort. En mis experiencias laborales anteriores, fuera del mundo de la tecnología, he adquirido y perfeccionado mis habilidades para trabajar en equipo teniendo claro que una comunicación asertiva es el mejor camino para la resolución de problemas.
+</h4> 
+<br><br>
+
 <p align="center" width='100%'>
 <h3 align="left">Tecnologias</h3>
 <h4 align="center"> HTML || CSS || JavaScript || React.js || Redux || Node.js || Express || Sequilize || Postgres <h4>
 </p>
-
-
+  <br>
   <br>
   <br>
 <p align="center">
@@ -66,17 +86,24 @@
   <li>Ordenamiento por mayor y menor cantidad de poblacion</li>
  </ul>
  </p>
+ <p>Las tecnologias utilizadas en este proyecto fueron:
+<ul>
+ <li>Node.js</li>
+ <li>Express</li>
+ <li>Sequilize</li>
+ <li>Postgres</li>
+ <li>React</li>
+ <li>Redux</li>
+ <li>CSS Puro</li>
+</ul>
+</p>
  
  </p>
  </div>
- 
 
-  
+<hr>
 
-  
-  
-  <hr>
-  <h3>App Weather</h3>
+<h3>App Weather</h3>
   
 <section align="center">  
  
@@ -91,17 +118,28 @@
 </a>
   
 </section>  
-<br>
-<br>
-  <div align="center">
-    <h3 align="center">CONTACTO:</h3> <br>
-  <div align="center">
+
+<div>
+ <p>Desarrolle esta app realizando una peticion a una API REST (OpenWeather) y organizando la informacion en la parate del Frontend</p>
+ <p>Las tecnologias utilizadas en este proyecto fueron:
+<ul>
+ <li>React</li>
+ <li>Redux</li>
+ <li>CSS Puro</li>
+</ul>
+</p>
+</div>
+
+
+
+<div align="center">
+  <div align="right">
    <a href="https://www.linkedin.com/in/johancortesdev/" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://logoeps.com/wp-content/uploads/2014/09/34405-linkedin-logo-icon-vector-icon-vector-eps.png" alt="JohanCortes" height="50px" width="50px" />
+    <img align="center" src="https://logoeps.com/wp-content/uploads/2014/09/34405-linkedin-logo-icon-vector-icon-vector-eps.png" alt="JohanCortes" height="28px" width="28px" />
   </a>
     
    <a href="https://wa.me/+573043152412" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://image.flaticon.com/icons/png/128/1051/1051323.png" alt="midudev" height="50px" width="50px" />
+    <img align="center" src="https://image.flaticon.com/icons/png/128/1051/1051323.png" alt="midudev" height="28px" width="28px" />
   </a>
   </div>  
 </div>
