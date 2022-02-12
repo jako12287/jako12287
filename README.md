@@ -15,16 +15,23 @@
   <p align="center">
     App Countries
   </p>
+<section align="center">  
+  <a href='#' target='_blank'>
+  <img width='20%' src='https://user-images.githubusercontent.com/76558685/153722435-1e1c1d96-6bbb-45d4-8c56-5f3e045caec3.png' alt='LandinPage' />
+</a>
+<a href='#' target='_blank'>
+  <img width='20%' src='https://user-images.githubusercontent.com/76558685/153722434-0fc47ec7-c84b-40df-9a03-54bdcc8b3f09.png' alt='HomePage' />
+</a>
+<a href='#' target='_blank'>
+  <img width='20%' src='https://user-images.githubusercontent.com/76558685/153722433-95fb8e63-8934-4f04-8b30-628361eb546b.png' alt='DetailPage' />
+</a>
+
+<a href='#' target='_blank'>
+  <img width='20%' src='https://user-images.githubusercontent.com/76558685/153722436-d23a5e13-1bdf-4037-b412-9017ce6eb01c.png' alt='menu' />
+</a>
   
-  <a href='https://youtu.be/flMKhhT1_ns' target='_blank'>
-  <img width='30%' src='https://drive.google.com/file/d/1LXAh_AuObdoHO90x8r-tR2Rl8Y_LxT0r/view?usp=sharing' alt='LandinPage' />
-</a>
-<a href='https://youtu.be/fiRSdc1C9E8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/fiRSdc1C9E8/mqdefault.jpg' alt='Falsedades de entrevistas de programación y desarrollo' />
-</a>
-<a href='https://youtu.be/yKDVMquVIMI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/yKDVMquVIMI/mqdefault.jpg' alt='⭐ ¡Tu código ESPECTACULAR en Visual Studio Code! Cómo activar las LIGADURAS' />
-</a>
+</section>  
+
   
   
   
