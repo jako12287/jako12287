@@ -5,7 +5,7 @@
   </a>
     
    <a href="https://wa.me/+573043152412" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://image.flaticon.com/icons/png/128/1051/1051323.png" alt="midudev" height="28px" width="28px" />
+    <img align="center" src="https://whatsapp506.com/images/logo_dark.png" alt="midudev" height="28px" width="28px" />
   </a>
   </div>  
 </div>
@@ -176,15 +176,16 @@
 <div align="center">
   <div align="right">
    <a href="https://www.linkedin.com/in/johancortesdev/" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://logoeps.com/wp-content/uploads/2014/09/34405-linkedin-logo-icon-vector-icon-vector-eps.png" alt="JohanCortes" height="28px" width="28px" />
+    <img align="center" src="https://rataplan.nl/wp-content/uploads/2020/07/linkedin-logo-png-image-69211.png" alt="JohanCortes" height="28px" width="28px" />
   </a>
     
-   <a href="https://wa.me/+573043152412" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://image.flaticon.com/icons/png/128/1051/1051323.png" alt="midudev" height="28px" width="28px" />
+   <a href="https://wa.me/+573043152412" target="blank" style='margin-right:4px'> 
+    <img align="center" src="https://whatsapp506.com/images/logo_dark.png" alt="midudev" height="28px" width="28px" />
   </a>
-  </div>  
+  </div>   
 </div>
 
+              
 
 
 
