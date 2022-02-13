@@ -144,7 +144,7 @@
 
 <h3>App Weather</h3>
 
-  <a href='https://app-weather-eta-three.vercel.app/' alt='Link al app'><h4>Click aquí para usar el App 📱</h4></a> 
+ 
 
 <section align="center">  
  
